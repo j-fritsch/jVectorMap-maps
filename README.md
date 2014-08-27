@@ -26,3 +26,15 @@ One way to get around this is by generating these smaller countries by themselve
 When generating a map, you can give it any width you want. For Singapore, I used a width of 2.5. This gave me a small enough map of Singapore. It didn't look _great_, but it worked. It gave me something to hover over and click on.
 
 After generating the map, I copied the code that made up the map of Singapore and pasted into the map of Asia. The next problem was the placement of Singapore. It wasn't in the correct spot on the map. The first two numbers in the "path" section are the coordinates that determine the placement. Changing those made it move up, down, left, and right. I got it in a place that was good enough and there I had it, a map of Asia - including Singapore.
+
+
+Licensing
+---------
+
+Like jVectorMap, this is licensed under the MIT license.
+
+
+jVectorMap
+----------
+
+Please see [the jVectorMap project](https://github.com/bjornd/jvectormap) on GitHub or the [jVectorMap](http://jvectormap.com/) website for other examples and documentation.
